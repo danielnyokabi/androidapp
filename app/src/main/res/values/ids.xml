@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Go_To_Menu" type="id" />
+    <item name="Go_To_Order_List" type="id" />
+    <item name="FindStore" type="id" />
+    <item name="Info" type="id" />
+    <item name="CustInfo" type="id" />
+    <item name="list" type="id" />
+    <item name="gotomenu_btn" type="id" />
+    <item name="PlaceOrder_btn" type="id" />
+    <item name="Save" type="id" />
+    <item name="cust_name" type="id" />
+    <item name="cust_email" type="id" />
+    <item name="cust__number" type="id" />
+    <item name="cust_adress" type="id" />
+    <item name="webview" type="id" />
+    <item name="Help" type="id" />
+    <item name="devide_quanity" type="id" />
+    <item name="devidetextview" type="id" />
+    <item name="orderitem" type="id" />
+    <item name="Quantity" type="id" />
+    <item name="Place_Order_btn" type="id" />
+</resources>
